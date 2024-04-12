@@ -1,6 +1,21 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Iphone",
+    "text": "This is the iphone",
+    "id": "986b19b0-f7ae-11ee-95c1-0d63253c729a"
+  },
+  {
+    "title": "This is a note",
+    "text": "This is another note",
+    "id": "d8db3980-f7ae-11ee-95c1-0d63253c729a"
+  },
+  {
+    "title": "sdasdafsdf",
+    "text": "aweffeawfaw",
+    "id": "e069e2f0-f7ae-11ee-95c1-0d63253c729a"
+  }
 ]
